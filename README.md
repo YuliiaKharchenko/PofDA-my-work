@@ -3,7 +3,16 @@
 
 
 References:
+[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html - general info, types 
+https://numpy.org/doc/stable/user/basics.creation.html
 https://github.com/allisonhorst/palmerpenguins/
 https://allisonhorst.github.io/palmerpenguins/
-https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+[Release the penguins](https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/)
+[8 Ways To Calculate Correlation Between Two Time Series In Python](https://forecastegy.com/posts/correlation-between-two-time-series-python/)
+
+
+Some interesting approaches to analysing the Palmer penguin data set from the internet:
+https://medium.com/@Fortune_/visualizing-the-palmerpenguins-dataset-d3d70bb619b4
+https://www.kaggle.com/code/anamhabib19/exploratory-data-analysis-on-penguin-dataset
+https://www.kaggle.com/code/poonamdasilva/eda-on-penguin-species-with-seaborn
