@@ -39,7 +39,7 @@ If you need help with the project, feel free to reach out to **Yuliia Kharchenko
 
 ## Author
 
-This project was created by **##### Yuliia Kharchenko**. 
+This project was created by **Yuliia Kharchenko**. 
 
 References:
 * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
@@ -53,6 +53,7 @@ References:
 * [Release the penguins](https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/)
 * [8 Ways To Calculate Correlation Between Two Time Series In Python](https://forecastegy.com/posts/correlation-between-two-time-series-python/)
 * [Correlation Analysis](https://datatab.net/tutorial/correlation)
+* [Pearson's Product-Moment Correlation using SPSS Statistics](https://statistics.laerd.com/spss-tutorials/pearsons-product-moment-correlation-using-spss-statistics.php)
 
 
 Some interesting approaches to analysing the Palmer penguin data set from the internet:
